@@ -57,7 +57,6 @@ export default function Navbar({ onOpenMenu }: NavbarProps) {
             <div className="flex flex-col">
               <span className="text-lg sm:text-2xl font-black text-white tracking-wider uppercase font-sans leading-none flex items-center">
                 HAII<span className="text-amber-400">-</span>PROTEIN
-                <sup className="text-[9px] sm:text-[10px] text-white/70 ml-1 font-sans">TM</sup>
               </span>
               <span className="text-[9px] sm:text-[11px] text-amber-400 font-semibold tracking-wider uppercase mt-1">
                 Your Cravings Destination
