@@ -87,8 +87,8 @@ export default function Footer() {
               info@haiiprotein.in
             </a>{" "}
             | Phone:{" "}
-            <a href="tel:+919560702568" className="text-gray-700 hover:underline">
-              +91 9560702568
+            <a href="tel:+918688249985" className="text-gray-700 hover:underline">
+              +91 86882 49985
             </a>
           </p>
           <p>

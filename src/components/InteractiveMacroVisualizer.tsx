@@ -42,7 +42,7 @@ export default function InteractiveMacroVisualizer() {
     const text = encodeURIComponent(
       `Hi Haii Protein Vizianagaram! 🥑 I used the Interactive Macro Calculator for my goal:\n\n🎯 Target: ${targetCalories} kcal (${goalType.toUpperCase()})\n💪 Protein: ${macros.proteinGrams}g | 🌾 Carbs: ${macros.carbGrams}g | 🥑 Fats: ${macros.fatGrams}g\n🍽️ Recommended Combo: ${macros.meals}\n\nPlease share availability for delivery in Vizianagaram!`
     );
-    return `https://wa.me/919560702568?text=${text}`;
+    return `https://wa.me/918688249985?text=${text}`;
   };
 
   return (

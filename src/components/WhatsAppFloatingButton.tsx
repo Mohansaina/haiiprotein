@@ -4,7 +4,7 @@ import { WhatsAppIcon } from "@/components/SocialIcons";
 
 export default function WhatsAppFloatingButton() {
   const whatsappUrl =
-    "https://wa.me/919560702568?text=" +
+    "https://wa.me/918688249985?text=" +
     encodeURIComponent(
       "Hi Haii Protein! 🥑 I want to inquire about starting a customized healthy diet plan in Vizianagaram. Can you please share today's menu and subscription details?"
     );

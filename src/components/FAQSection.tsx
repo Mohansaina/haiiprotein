@@ -101,7 +101,7 @@ export default function FAQSection() {
           </div>
 
           <a
-            href="https://wa.me/919560702568?text=Hi%20Haii%20Protein!%20I%20have%20a%20question%20about%20your%20meals%20in%20Vizianagaram."
+            href="https://wa.me/918688249985?text=Hi%20Haii%20Protein!%20I%20have%20a%20question%20about%20your%20meals%20in%20Vizianagaram."
             target="_blank"
             rel="noopener noreferrer"
             className="px-5 py-2.5 rounded-xl bg-[#25D366] hover:bg-[#20ba5a] text-white text-xs font-bold uppercase tracking-wider flex items-center gap-2 shadow-md hover:scale-105 active:scale-95 transition-all cursor-pointer shrink-0"

@@ -32,7 +32,7 @@ export default function Navbar({ onOpenMenu }: NavbarProps) {
     <header className="absolute top-0 left-0 right-0 z-50 bg-gradient-to-b from-black/90 via-black/50 to-transparent">
       <div className="max-w-[1440px] mx-auto px-3.5 sm:px-6 lg:px-12">
         <div className="flex items-center justify-between h-20 sm:h-24">
-          
+
           {/* Official Haii Protein Brand Logo */}
           <Link
             href="/"
@@ -52,7 +52,7 @@ export default function Navbar({ onOpenMenu }: NavbarProps) {
                 priority
               />
             </div>
-            
+
             {/* Brand Text */}
             <div className="flex flex-col">
               <span className="text-lg sm:text-2xl font-black text-white tracking-wider uppercase font-sans leading-none flex items-center">
@@ -130,7 +130,7 @@ export default function Navbar({ onOpenMenu }: NavbarProps) {
             </button>
 
             <a
-              href="tel:+919560702568"
+              href="tel:+918688249985"
               onClick={() => handleNavClick()}
               className="flex items-center gap-2 px-4 py-1.5 rounded-full border border-white text-white text-xs font-medium hover:bg-white/10 transition-colors"
             >
@@ -159,7 +159,7 @@ export default function Navbar({ onOpenMenu }: NavbarProps) {
             </button>
 
             <a
-              href="tel:+919560702568"
+              href="tel:+918688249985"
               className="flex items-center gap-1 px-2.5 py-1 rounded-full border border-white text-white text-[11px] font-semibold active:bg-white/10 touch-manipulation"
             >
               <Phone className="w-3 h-3 fill-white text-white" />
@@ -235,7 +235,7 @@ export default function Navbar({ onOpenMenu }: NavbarProps) {
 
           <div className="pt-3 border-t border-white/10 flex items-center gap-3">
             <a
-              href="tel:+919560702568"
+              href="tel:+918688249985"
               className="flex-1 flex items-center justify-center gap-2 py-3 rounded-xl border border-white/30 text-white text-xs font-bold active:bg-white/10 touch-manipulation"
             >
               <Phone className="w-3.5 h-3.5 fill-white text-white" />

@@ -29,7 +29,7 @@ export default function SubscriptionCalculator() {
   const getWhatsAppMessage = () => {
     const goalObj = goals.find((g) => g.id === goal);
     const message = `Hi Haii Protein! 🥑\nI want to customize my meal subscription:\n\n📍 City: ${selectedCity}\n🎯 Goal: ${goalObj?.label}\n🍽️ Meals per day: ${mealsPerDay} meal(s)\n📅 Duration: ${duration} Days (${totalMeals} total meals)\n🥗 Preference: ${dietType}\n💰 Estimated: ₹${discountedTotal} (~₹${effectivePerMeal}/meal)\n\nPlease connect me with a nutritionist to finalize my menu!`;
-    return `https://wa.me/919560702568?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/918688249985?text=${encodeURIComponent(message)}`;
   };
 
   return (

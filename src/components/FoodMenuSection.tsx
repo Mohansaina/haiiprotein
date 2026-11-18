@@ -25,7 +25,7 @@ export default function FoodMenuSection() {
     const text = encodeURIComponent(
       `Hi Haii Protein! 🥑 I want to order/inquire about the ${item.name} (${item.calories} kcal, ${item.protein} protein) in Vizianagaram. Please share ordering details!`
     );
-    return `https://wa.me/919560702568?text=${text}`;
+    return `https://wa.me/918688249985?text=${text}`;
   };
 
   return (
